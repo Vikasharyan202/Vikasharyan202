@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Vikasharyan202/Vikasharyan202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello and Welcome 👋, I’m Vikash Aryan
+  ### I'm Fullstack JavaScript Developer
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Fullstack Development *MERN Stack*
+- 💞️ I’m looking to collaborate on Web based projects
+- ⚡ Motto: *Keep striving for progress, not perfection*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+Vikash-Mech-Cse/Vikash-Mech-Cse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
